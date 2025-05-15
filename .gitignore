@@ -1,0 +1,33 @@
+﻿# Build output
+bin/
+obj/
+.*
+!.gitignore
+!.gitattributes
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+env
+
+# Docker
+docker-compose.override.yml
+
+# Published output
+publish/
+
+# Configuration files
+appsettings*.json
+launchSettings.json
+
+# OS generated files
+DS_Store
+Thumbs.db
