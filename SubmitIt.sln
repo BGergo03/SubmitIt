@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{2E143AC0-EBAE-4DA6-899C-2575EE27905F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{4D33C576-87A4-4758-BB26-D1CE9BB942F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D33C576-87A4-4758-BB26-D1CE9BB942F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D33C576-87A4-4758-BB26-D1CE9BB942F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D33C576-87A4-4758-BB26-D1CE9BB942F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D33C576-87A4-4758-BB26-D1CE9BB942F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
