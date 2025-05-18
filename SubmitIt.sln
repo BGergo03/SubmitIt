@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{38A145E3-62D7-486F-8563-F6DCD5FD3D3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{360A9B96-5905-43F9-A64F-62E12068B8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{2E143AC0-EBAE-4DA6-899C-2575EE27905F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38A145E3-62D7-486F-8563-F6DCD5FD3D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38A145E3-62D7-486F-8563-F6DCD5FD3D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38A145E3-62D7-486F-8563-F6DCD5FD3D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38A145E3-62D7-486F-8563-F6DCD5FD3D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360A9B96-5905-43F9-A64F-62E12068B8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360A9B96-5905-43F9-A64F-62E12068B8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360A9B96-5905-43F9-A64F-62E12068B8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360A9B96-5905-43F9-A64F-62E12068B8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E143AC0-EBAE-4DA6-899C-2575EE27905F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
